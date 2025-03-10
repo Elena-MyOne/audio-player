@@ -1,3 +1,5 @@
+![audio-player](https://github.com/user-attachments/assets/4a4c8bc0-8fea-4e89-89c2-1be83923d3ca)
+
 # Audio Player
 
 ## Overview
