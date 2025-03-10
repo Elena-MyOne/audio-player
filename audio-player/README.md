@@ -38,6 +38,10 @@ interface to play multiple tracks with essential controls and a visually appeali
 - Equalizer visualization
 - Keyboard shortcuts for controls
 
+## Live Preview
+
+[Demo](https://elena-myone.github.io/audio-player/audio-player/)
+
 ## License
 
 This project is licensed under the MIT License.
